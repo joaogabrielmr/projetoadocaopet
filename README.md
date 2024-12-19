@@ -1,2 +1,3 @@
 # projetoadocaopet 🐶
-Desenvolvimento web básico, primeiro trabalho de faculdade
+Desenvolvimento web básico.
+Primeiro projeto desenvolvido com amigos durante o primeiro semestre da faculdade, feito com html e css.
